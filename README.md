@@ -1,11 +1,5 @@
 # Product Landing Page
 
-<h3 align="center">
-  <strong>
-    <a href="https://arlagonix.github.io/projects/freecodecamp-product-landing-page">Open Demo in Github Pages</a>
-  </strong>
-</h3>
-
 ## ℹ️ About
   
 This is a solution to the [Build a Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page).
