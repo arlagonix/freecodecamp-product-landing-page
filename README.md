@@ -1,4 +1,7 @@
-# Product Landing Page
+<h1 align="center">Product Landing Page</h1>
+<p align="center">
+  Coded with <code>HTML</code>, <code>CSS</code>
+</p>
 
 ## ℹ️ About
   
